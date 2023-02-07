@@ -4,7 +4,7 @@
 ## Objectvices of Project
 Todo List app that can track completed and incomplete tasks using Flask API. Flask-SQLAlchemy extension was used to utilize database. New task can be added through Add item interface. To update incomplete items to completed items, **Mark As Complete** button is used. Items can be deleted by **Delete** button.
 
-![UI](https://github.com/chloekang234/microservices-TodoList-in-Flask/blob/main/Images/Screenshot%202023-02-07%20at%203.53.22%20PM.png)
+![UI](https://github.com/chloekang234/microservices-TodoList-in-Flask/blob/main/src/UI%20screen.png)
 
 Live Website link: https://j7mxk3vtmm.us-east-1.awsapprunner.com
 
