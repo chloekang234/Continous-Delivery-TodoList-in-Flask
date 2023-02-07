@@ -9,7 +9,7 @@ Todo List app that can track completed and incomplete tasks using Flask API. Fla
 Live Website link: https://j7mxk3vtmm.us-east-1.awsapprunner.com
 
 ## Project Structure
-![UI](images/Project Structure)
+![Project Structure](https://github.com/chloekang234/microservices-TodoList-in-Flask/blob/main/src/Project%20Structure.png)
 
 
 ## Running the web application locally:
