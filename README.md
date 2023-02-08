@@ -1,3 +1,4 @@
+![badge] (https://github.com/chloekang234/microservices-TodoList-in-Flask/actions/workflows/main.YAML/badge.svg)
 
 # Microservice ToDo List App in Flask API
 
